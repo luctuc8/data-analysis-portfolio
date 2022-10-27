@@ -9,6 +9,12 @@ I'm open for any comments and criticisms. Actually, I would appriciate them. It 
 ### Projects
 
 #### Data analysis and visualization
-- Gender pay gap
+- [Gender Pay Gap](https://github.com/luctuc8/data-analysis-portfolio/blob/main/Gender%20gap%20pay.ipynb)
+
+Data consists of 1000 entries and 9 columns including JobTitle, Gender, Age, Performance evaluation, education, department, seniority, Base pay and Bonus.
+The dataset was quite clean, but the necessary steps for cleaning were performed to assure that.
+Skills: data analysis, descriptive statistics, data visualization.
+Technology: Python, Pandas, Numpy, Scipy Stats, Matplotlib.
+
 
 
