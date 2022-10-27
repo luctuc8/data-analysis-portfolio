@@ -9,7 +9,7 @@ I'm open to any comments and criticisms. I would appreciate them. It would help 
 ### Projects
 
 #### Data analysis and visualization
-- [Gender Pay Gap](https://github.com/luctuc8/data-analysis-portfolio/blob/main/Gender_gap_pay.ipynb)
+- [Gender Pay Gap](https://github.com/luctuc8/data-analysis-portfolio/blob/main/Gender%20gap%20pay.ipynb)
 
 Data consists of 1000 entries and 9 columns including JobTitle, Gender, Age, Performance evaluation, education, department, seniority, Base pay and Bonus.
 The dataset was quite clean, but the necessary steps for cleaning were performed to assure that.
