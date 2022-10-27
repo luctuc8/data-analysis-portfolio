@@ -1,10 +1,10 @@
 # Lucija Kovač - Data analyst portfolio
 ### About me
-Hi, I'm Lucija. I'm MScs in Mathematics (Aarhus University, DK). I have always been interested in data. Being able to make sense of something unconnected by a first glance is a valuable skill.
+Hi, I'm Lucija. I'm MScs in Mathematics (Aarhus University, DK). I have always been interested in data. Being able to make sense of something unconnected a first glance is a valuable skill.
 
-This portfolio is my "Hello world" to the data community. I will try to cover as many different projects and get some fun and interesting results. 
+This portfolio is my "Hello world" to the data community. I will try to cover as many different projects and get some fun and interesting results.
 
-I'm open for any comments and criticisms. Actually, I would appriciate them. It would help me become better and improve my projects.
+I'm open to any comments and criticisms. I would appreciate them. It would help me become better and improve my projects.
 
 ### Projects
 
@@ -15,6 +15,4 @@ Data consists of 1000 entries and 9 columns including JobTitle, Gender, Age, Per
 The dataset was quite clean, but the necessary steps for cleaning were performed to assure that.
 Skills: data analysis, descriptive statistics, data visualization.
 Technology: Python, Pandas, Numpy, Scipy Stats, Matplotlib.
-
-
 
