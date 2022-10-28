@@ -13,6 +13,8 @@ I'm open to any comments and criticisms. I would appreciate them. It would help 
 
 Data consists of 1000 entries and 9 columns including JobTitle, Gender, Age, Performance evaluation, education, department, seniority, Base pay and Bonus.
 The dataset was quite clean, but the necessary steps for cleaning were performed to assure that.
+
 Skills: data analysis, descriptive statistics, data visualization.
+
 Technology: Python, Pandas, Numpy, Scipy Stats, Matplotlib.
 
