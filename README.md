@@ -4,7 +4,7 @@ Hi, I'm Lucija. I'm MScs in Mathematics (Aarhus University, DK). I have always b
 
 This portfolio is my "Hello world" to the data community. I will try to cover as many different projects and get some fun and interesting results.
 
-I'm open to any comments and criticisms. I would appreciate them. It would help me become better and improve my projects.
+I'm open to any comments and criticisms. I would appreciate them. It would help me become better and improve my projects. I have planned to make several projects and I am going to upload them as they are ready, as well as update the existing ones. All comments and critiques are welcome and encouraged.
 
 ### Projects
 
