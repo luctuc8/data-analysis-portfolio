@@ -8,7 +8,17 @@ I'm open to any comments and criticisms. I would appreciate them. It would help 
 
 ### Projects
 
-#### Data analysis and visualization
+#### Machine learning
+-[Salary prediction - classification](https://github.com/luctuc8/data-analysis-portfolio/blob/main/Salary%20prediction%20-%20classification.ipynb)
+
+Data consists of 32561 entries with 15 columns. I carried out the data cleaning by handling the unwanted inputs, checking the data types, outliers analysis and removing the unnecessary columns. Basic analysis and visualizations for the features I consider necessary was made.
+In the end, I trained and made predictions of the data on 5 different classification machine learning models and compared their performance.
+
+Skills: machine learning, data cleaning, data visualization, data analysis
+
+Technology: Python, pandas, sklearn, numpy, matplotlib, seaborn, scipy, statistics
+
+#### Visualization
 - [Gender Pay Gap](https://github.com/luctuc8/data-analysis-portfolio/blob/main/Gender%20gap%20pay.ipynb)
 
 Data consists of 1000 entries and 9 columns including JobTitle, Gender, Age, Performance evaluation, education, department, seniority, Base pay and Bonus.
@@ -16,5 +26,5 @@ The dataset was quite clean, but the necessary steps for cleaning were performed
 
 Skills: data analysis, descriptive statistics, data visualization.
 
-Technology: Python, Pandas, Numpy, Scipy Stats, Matplotlib.
+Technology: Python, Pandas, Numpy, Scipy Stats, Matplotlib
 
