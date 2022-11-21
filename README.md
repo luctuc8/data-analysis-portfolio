@@ -24,5 +24,5 @@ The dataset was quite clean, but the necessary steps for cleaning were performed
 
 Skills: data analysis, descriptive statistics, data visualization.
 
-Technology: Python, Pandas, Numpy, Scipy Stats, Matplotlib
+Technology: Python, Pandas, Numpy, Matplotlib, Plotly, Scipy Stats
 
