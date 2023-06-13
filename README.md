@@ -1,8 +1,8 @@
-# Lucija Kovač - Data analyst portfolio
+# Lucija Kovač - Data portfolio
 ### 👩‍🔬 About me
 Hi, I'm Lucija. I'm MScs in Mathematics (Aarhus University, DK). I have always been interested in data. Being able to make sense of something unconnected a first glance is a valuable skill.
 
-This portfolio is my "Hello world" to the data community. I will cover different projects and try to get some fun and interesting results. I have planned to make several projects and I am going to upload them as they are ready, as well as update the existing ones. All comments and critiques are welcome.
+This portfolio was created to substitute the lack of my work experience and make me visible in the business world. It's my "Helo world" to the data community.
 
 ### 📓 Projects
 
