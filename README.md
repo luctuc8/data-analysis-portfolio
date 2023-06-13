@@ -2,7 +2,7 @@
 ### 👩‍🔬 About me
 Hi, I'm Lucija. I'm MScs in Mathematics (Aarhus University, DK). I have always been interested in data. Being able to make sense of something unconnected a first glance is a valuable skill.
 
-This portfolio was created to substitute the lack of my work experience and make me visible in the business world. It's my "Helo world" to the data community.
+This portfolio was created to enhance my resume and make me visible in the business world. It's my "Helo world" to the data community.
 
 ### 📓 Projects
 
